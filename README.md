@@ -13,7 +13,7 @@ This repository contains only the API. The data cleaning, EDA, model training, M
 
 👉 [AI-Powered-Energy-Consumption-Forecasting-Anomaly-Detection-System](https://github.com/Baloxh-Aziz/AI-Powered-Energy-Consumption-Forecasting-Anomaly-Detection-System)
 
-- [Live dashboard](https://household-energy-forecasting-and-anomaly-detection.streamlit.app) (it calls this API for its live demo)
+- [Live dashboard](https://ai-powered-energy-consumption-forecasting-anomaly-detection.streamlit.app/) (it calls this API for its live demo)
 
 The models here are exported by notebook `06 model export` of that repository.
 
